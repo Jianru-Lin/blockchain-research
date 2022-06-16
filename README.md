@@ -6,7 +6,7 @@ We are blockchain researchers and developers. This repository is where we share 
 
 -   [Jianru Lin](https://www.linkedin.com/in/jianrulin/)
 -   [Dr. Huawei Huang](https://www.researchgate.net/profile/Huawei-Huang-4)
--   [Members of Huanglab](http://xintelligence.pro/)
+-   [Members of Huanglab](http://xintelligence.pro/lab-member)
 
 # Links
 
@@ -22,3 +22,7 @@ Podcast:
 Wechat Public Account:
 
 -   HuangLab (In Chinese)
+
+Website:
+
+-   [HuangLab](http://xintelligence.pro/lab-member)
