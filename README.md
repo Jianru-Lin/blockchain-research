@@ -8,8 +8,6 @@ We are blockchain researchers and developers. This repository is where we share 
 -   [Dr. Huawei Huang](https://www.researchgate.net/profile/Huawei-Huang-4)
 -   [Members of Huanglab](http://xintelligence.pro/lab-member)
 
-# Links
-
 Youtube Channel:
 
 -   [Fintech Step by Step](https://www.youtube.com/channel/UCV8XTuIZCsOwN08x1t_shFg) (In English)
@@ -26,3 +24,10 @@ Wechat Public Account:
 Website:
 
 -   [HuangLab](http://xintelligence.pro/lab-member)
+
+# Projects inside
+
+We are working on these projects now. Watch/Star the repository to follow the updates.
+
+-   bitcoin - yet another implementation of bitcoin (desktop application, educational purpose)
+-   nft - a NFT platform that anyone can play with (mobile app, web dashboard)
