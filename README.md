@@ -6,4 +6,4 @@ We are blockchain researchers and developers. This repository is where we share 
 
 -   [Jianru Lin](https://www.linkedin.com/in/jianrulin/)
 -   [Dr. Huawei Huang](https://www.researchgate.net/profile/Huawei-Huang-4)
--   [Members from Huanglab](http://xintelligence.pro/)
+-   [Members of Huanglab](http://xintelligence.pro/)
