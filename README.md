@@ -19,7 +19,7 @@ Podcast:
 
 Wechat Public Account:
 
--   HuangLab (In Chinese)
+-   Huang-Lab (In Chinese)
 
 Website:
 
